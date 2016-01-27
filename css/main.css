@@ -1,7 +1,7 @@
 div {
 	width: 200px;
 	height: 250px;
-	border: 1px solid orange;
-	padding: 10px;
+	border: 2px solid orange;
+	padding: 0px;
 	margin:0px;
 }
